@@ -63,13 +63,7 @@ Dates 3/16-3/25
 ## Wireframes
 
 **Insert wireframe pictures here**
-[loign](LoginView.png)
-[market](Market.png)
-[phone](PhoneNumberView.png)
-[profile](ProfileView.png)
-[Register](RegisterView.png)
-[verify](VerificationView.png)
-[currentOrders](YourCurrentOrders.png)
+<img src = "LoginView.png" width=200 height = 400><img src = "Market.png" width=200 height = 400><img src = "PhoneNumberView.png" width=200 height = 400><img src = "ProfileView.png" width=200 height = 400><img src = "RegisterView.png" width=200 height = 400><img src = "VerificationView.png" width=200 height = 400><img src = "YourCurrentOrders.png" width=200 height = 400>
 [Google Link](https://drive.google.com/drive/folders/1unBJLP-4GyDM9vyCHhDi7Jk-y73QeKXG)
 
 
